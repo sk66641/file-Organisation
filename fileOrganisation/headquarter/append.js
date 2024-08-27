@@ -3,7 +3,6 @@ import fs from "fs/promises"
 const basepath = "/home/sanu/Desktop/testing/test"
 const files = await fs.readdir(basepath)
 
-// credit: chatGpt for generating this array 
 const sigmaWebDevCourse = [
   "Introduction | Sigma Web Development Course - Tutorial #1",
   "Overview of Web Development | Sigma Web Development Course - Tutorial #2",
