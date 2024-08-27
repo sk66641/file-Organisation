@@ -3,7 +3,11 @@ import fs from "fs/promises"
 import sf from "fs"
 import path from "path"
 
-const BasePath = "/home/sanu/Documents/Web Deployment/fileOrganisation"
+const BasePath = ""
+if (BasePath == "") {
+    console.log("Please provide the base path")
+    process.exit(1)
+}
 try {
     const basepath = `${BasePath}`
     const files = await fs.readdir(basepath)
