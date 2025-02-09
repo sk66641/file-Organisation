@@ -7,9 +7,9 @@
     git clone https://github.com/sk66641/file-Organisation.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to fileOrganisation inside the project directory:
     ```sh
-    cd fileOrganisation
+    cd file-Organisation/fileOrganisation
     ```
 
 3. Install the required dependencies:
