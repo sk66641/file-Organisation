@@ -1,7 +1,12 @@
 # 📁 fileOrganisation
 
-- organising files using fs module
+## Organising files using fs module
 
----
+```
+git clone https://github.com/sk66641/file-Organisation.git
+```
+```
+cd fileOrganisation
+```
 
-`before running any .js file, first provide base path of "fileOrganisation" folder`
+- Now, run any of the files ```free.js``` or ```premium.js```
