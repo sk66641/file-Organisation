@@ -1,1 +1,1 @@
-writeFile
+JavaScript DOM Manipulation | Sigma Web Development Course - Tutorial #35

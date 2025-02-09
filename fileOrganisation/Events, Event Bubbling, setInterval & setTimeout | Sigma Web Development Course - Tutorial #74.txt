@@ -1,1 +1,1 @@
-writeFile
+Events, Event Bubbling, setInterval & setTimeout | Sigma Web Development Course - Tutorial #74

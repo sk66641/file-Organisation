@@ -1,1 +1,1 @@
-writeFile
+Exercise 7 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #47

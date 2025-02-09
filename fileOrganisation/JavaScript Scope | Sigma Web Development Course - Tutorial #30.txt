@@ -1,1 +1,1 @@
-writeFile
+JavaScript Scope | Sigma Web Development Course - Tutorial #30

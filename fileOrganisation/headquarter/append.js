@@ -1,7 +1,13 @@
 import fs from "fs/promises"
+import { fileURLToPath } from 'url';
+import path from 'path';
 
-const basepath = "/home/sanu/Desktop/testing/test"
-const files = await fs.readdir(basepath)
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(path.dirname(__filename));
+
+const basepath = `${__dirname}/`
+// const files = await fs.readdir(basepath)
 
 const sigmaWebDevCourse = [
   "Introduction | Sigma Web Development Course - Tutorial #1",
@@ -139,5 +145,6 @@ const sigmaWebDevCourse = [
 
 
 for (const elements of sigmaWebDevCourse) {
-  await fs.writeFile(elements + "." + "txt", "writeFile")
+  await fs.writeFile(path.join(basepath, elements + ".txt"), elements)
+  // await fs.rm(path.join(basepath, elements + ".txt"), {recursive: true, force: true })
 }

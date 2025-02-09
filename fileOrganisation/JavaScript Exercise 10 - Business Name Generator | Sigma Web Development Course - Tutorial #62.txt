@@ -1,1 +1,1 @@
-writeFile
+JavaScript Exercise 10 - Business Name Generator | Sigma Web Development Course - Tutorial #62

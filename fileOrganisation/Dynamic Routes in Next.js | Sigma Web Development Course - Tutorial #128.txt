@@ -1,1 +1,1 @@
-writeFile
+Dynamic Routes in Next.js | Sigma Web Development Course - Tutorial #128

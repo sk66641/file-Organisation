@@ -1,1 +1,1 @@
-writeFile
+JavaScript Conditionals: if, else if, else ladder | Sigma Web Development Course - Tutorial #56

@@ -1,1 +1,1 @@
-writeFile
+JavaScript Exercise 12 - Color the Boxes | Sigma Web Development Course - Tutorial #70

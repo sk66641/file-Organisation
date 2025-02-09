@@ -1,1 +1,1 @@
-writeFile
+JavaScript Exercise 14 - Hacker's Terminal | Sigma Web Development Course - Tutorial #78

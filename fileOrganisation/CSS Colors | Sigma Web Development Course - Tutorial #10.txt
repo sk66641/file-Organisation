@@ -1,1 +1,1 @@
-writeFile
+CSS Colors | Sigma Web Development Course - Tutorial #10

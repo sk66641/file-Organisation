@@ -1,1 +1,1 @@
-writeFile
+Introduction to JavaScript | Sigma Web Development Course - Tutorial #24

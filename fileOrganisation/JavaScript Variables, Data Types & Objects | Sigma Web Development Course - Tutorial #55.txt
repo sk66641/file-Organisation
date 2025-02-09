@@ -1,1 +1,1 @@
-writeFile
+JavaScript Variables, Data Types & Objects | Sigma Web Development Course - Tutorial #55

@@ -1,1 +1,1 @@
-writeFile
+Auth.js - Authentication in Next.js | Sigma Web Development Course - Tutorial #127

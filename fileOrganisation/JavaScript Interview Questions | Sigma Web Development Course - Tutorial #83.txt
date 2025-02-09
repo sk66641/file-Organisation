@@ -1,1 +1,1 @@
-writeFile
+JavaScript Interview Questions | Sigma Web Development Course - Tutorial #83

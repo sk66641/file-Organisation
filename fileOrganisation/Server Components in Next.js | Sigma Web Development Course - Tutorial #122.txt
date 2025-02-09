@@ -1,1 +1,1 @@
-writeFile
+Server Components in Next.js | Sigma Web Development Course - Tutorial #122

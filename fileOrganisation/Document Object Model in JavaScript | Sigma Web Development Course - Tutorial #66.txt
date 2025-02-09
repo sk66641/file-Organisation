@@ -1,1 +1,1 @@
-writeFile
+Document Object Model in JavaScript | Sigma Web Development Course - Tutorial #66

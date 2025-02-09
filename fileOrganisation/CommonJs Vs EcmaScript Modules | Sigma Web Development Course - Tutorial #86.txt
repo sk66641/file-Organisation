@@ -1,1 +1,1 @@
-writeFile
+CommonJs Vs EcmaScript Modules | Sigma Web Development Course - Tutorial #86

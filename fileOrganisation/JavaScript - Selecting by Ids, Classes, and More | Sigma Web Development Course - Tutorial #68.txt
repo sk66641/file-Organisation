@@ -1,1 +1,1 @@
-writeFile
+JavaScript - Selecting by Ids, Classes, and More | Sigma Web Development Course - Tutorial #68

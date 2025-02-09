@@ -1,1 +1,1 @@
-writeFile
+Script, Link & Image components in Next.js | Sigma Web Development Course - Tutorial #123

@@ -1,1 +1,1 @@
-writeFile
+JavaScript Exercise 12 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #72

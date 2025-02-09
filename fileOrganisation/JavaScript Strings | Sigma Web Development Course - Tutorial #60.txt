@@ -1,1 +1,1 @@
-writeFile
+JavaScript Strings | Sigma Web Development Course - Tutorial #60
