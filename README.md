@@ -9,7 +9,7 @@
 
 2. Navigate to fileOrganisation inside the project directory:
     ```sh
-    cd file-Organisation/fileOrganisation
+    cd file-Organisation/fileOrganisation/headquarter/
     ```
 
 3. Install the required dependencies:
